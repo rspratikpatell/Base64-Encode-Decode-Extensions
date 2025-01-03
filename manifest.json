@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Base64 Encoder/Decoder",
+    "version": "1.0",
+    "description": "Encode and decode strings using Base64.",
+    "icons": {
+        "16": "logos/icon16.png",
+        "48": "logos/icon48.png",
+        "128": "logos/icon128.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logos/icon48.png"
+    },
+    "permissions": []
+}
